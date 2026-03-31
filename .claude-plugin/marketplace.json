@@ -1,0 +1,15 @@
+{
+  "name": "claude-dummy-marketplace",
+  "version": "1.0.0",
+  "description": "A marketplace for Claude Code plugins focused on Testing",
+  "owner": {
+    "name": "Lukas Kellerstein",
+    "url": "https://github.com/lukaskellerstein"
+  },
+  "plugins": [
+    {
+      "name": "html-dummy-plugin",
+      "source": "./plugins/html-dummy-plugin"
+    }
+  ]
+}

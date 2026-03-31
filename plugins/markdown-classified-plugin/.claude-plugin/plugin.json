@@ -1,0 +1,10 @@
+{
+  "name": "markdown-classified-plugin",
+  "version": "1.0.0",
+  "description": "Plugin that generates markdown styled as declassified TOP SECRET government memos with redaction blocks, classification banners, and document control numbers",
+  "author": {
+    "name": "Lukas Kellerstein"
+  },
+  "license": "MIT",
+  "keywords": ["demo", "markdown", "classified", "redacted", "government-memo"]
+}
